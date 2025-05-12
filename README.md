@@ -5,6 +5,7 @@ Portfolio Website
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![Screenshot 2025-05-12 122735](https://github.com/user-attachments/assets/58fd5413-2eb4-495e-a03d-6e97c9c3d089)
+  
+![Screenshot 2025-05-12 141347](https://github.com/user-attachments/assets/09850877-39a8-4d90-b59b-8de5b8b114e5)
 
 
